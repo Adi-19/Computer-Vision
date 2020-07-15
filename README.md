@@ -1,7 +1,8 @@
 # Computer-Vision
 
-# Object Detection
+# Object Detection using YOLO
 You Only Look Once (YOLO)
+YOLO is a state-of-the-art, real-time object detection algorithm
 
 # Weights
 
